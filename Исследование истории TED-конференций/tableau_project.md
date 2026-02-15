@@ -5,4 +5,4 @@
 
 Подготовлен интерактивный дашборд на основе данных о конференциях. Для создания дашбордов использовался BI-инструмент Tableau:
 
-Ссылка на дашборд(https://public.tableau.com/app/profile/elizaveta.medvedeva/viz/project_final_Medvedeva_v2/Story1)
+[Ссылка на дашборд](https://public.tableau.com/app/profile/elizaveta.medvedeva/viz/project_final_Medvedeva_v2/Story1)
